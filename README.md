@@ -1,6 +1,6 @@
 # Algoritmo de descarga de datos de la Bolsa de Valores de Lima
-¿Necesitas datos de Balance General, Estado de Resultados y Flujo de Efectivo de las empresas que cotizan en la Bolsa de Valores de Lima? ¿Necesitas la evolución de sus indicadores financieros críticos?
-En este repositorio encontrarás un algoritmo de websrapping que utiliza la página web www.smv.gob.pe para descargar estos datos de la empresa de tu preferencia. Además, podrás elaborar automáticamente indicadores financieras importantes con sus respectivos gráficos
+¿Necesitas datos del Balance General, Estado de Resultados y Flujo de Efectivo de las empresas que cotizan en la Bolsa de Valores de Lima? ¿Necesitas la evolución de sus indicadores financieros críticos?
+En este repositorio encontrarás un algoritmo de webscrapping que utiliza la página web www.smv.gob.pe para descargar estos datos de la empresa de tu preferencia. Además, podrás elaborar automáticamente indicadores financieros con sus respectivos gráficos
 
 ## Índice
 - webscrapping.ipynb: Jupyter Notebook con el algoritmo de descarga. Solo debes incluir el nombre de la empresa en la función respectiva
