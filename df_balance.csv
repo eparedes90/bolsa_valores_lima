@@ -1,0 +1,151 @@
+,cuentas,valor,trimestre,year
+0,Total Activos Corrientes,"1,526,262",I,2017
+1,Total Activos No Corrientes,"3,934,941",I,2017
+2,Total Pasivos Corrientes,"1,795,865",I,2017
+3,Total Pasivos No Corrientes,"1,177,396",I,2017
+4,Total Patrimonio,"2,487,942",I,2017
+0,Total Activos Corrientes,"1,673,823",II,2017
+1,Total Activos No Corrientes,"3,930,084",II,2017
+2,Total Pasivos Corrientes,"1,815,976",II,2017
+3,Total Pasivos No Corrientes,"1,175,558",II,2017
+4,Total Patrimonio,"2,612,373",II,2017
+0,Total Activos Corrientes,"2,225,709",III,2017
+1,Total Activos No Corrientes,"4,070,499",III,2017
+2,Total Pasivos Corrientes,"2,407,193",III,2017
+3,Total Pasivos No Corrientes,"1,091,819",III,2017
+4,Total Patrimonio,"2,797,196",III,2017
+0,Total Activos Corrientes,"2,172,402",IV,2017
+1,Total Activos No Corrientes,"3,990,044",IV,2017
+2,Total Pasivos Corrientes,"2,273,359",IV,2017
+3,Total Pasivos No Corrientes,"1,005,401",IV,2017
+4,Total Patrimonio,"2,883,686",IV,2017
+0,Total Activos Corrientes,"2,050,611",I,2018
+1,Total Activos No Corrientes,"4,029,864",I,2018
+2,Total Pasivos Corrientes,"2,300,395",I,2018
+3,Total Pasivos No Corrientes,"992,350",I,2018
+4,Total Patrimonio,"2,787,730",I,2018
+0,Total Activos Corrientes,"1,942,315",II,2018
+1,Total Activos No Corrientes,"4,561,771",II,2018
+2,Total Pasivos Corrientes,"2,131,533",II,2018
+3,Total Pasivos No Corrientes,"1,482,701",II,2018
+4,Total Patrimonio,"2,889,852",II,2018
+0,Total Activos Corrientes,"2,088,153",III,2018
+1,Total Activos No Corrientes,"4,949,103",III,2018
+2,Total Pasivos Corrientes,"2,293,995",III,2018
+3,Total Pasivos No Corrientes,"1,718,930",III,2018
+4,Total Patrimonio,"3,024,331",III,2018
+0,Total Activos Corrientes,"2,041,047",IV,2018
+1,Total Activos No Corrientes,"5,097,948",IV,2018
+2,Total Pasivos Corrientes,"2,257,000",IV,2018
+3,Total Pasivos No Corrientes,"1,653,805",IV,2018
+4,Total Patrimonio,"3,228,190",IV,2018
+0,Total Activos Corrientes,"1,693,622",I,2019
+1,Total Activos No Corrientes,"6,977,110",I,2019
+2,Total Pasivos Corrientes,"2,194,661",I,2019
+3,Total Pasivos No Corrientes,"3,435,202",I,2019
+4,Total Patrimonio,"3,040,869",I,2019
+0,Total Activos Corrientes,"1,787,724",II,2019
+1,Total Activos No Corrientes,"7,058,534",II,2019
+2,Total Pasivos Corrientes,"2,047,705",II,2019
+3,Total Pasivos No Corrientes,"3,681,805",II,2019
+4,Total Patrimonio,"3,116,748",II,2019
+0,Total Activos Corrientes,"2,107,822",III,2019
+1,Total Activos No Corrientes,"6,900,619",III,2019
+2,Total Pasivos Corrientes,"2,303,003",III,2019
+3,Total Pasivos No Corrientes,"3,359,370",III,2019
+4,Total Patrimonio,"3,346,068",III,2019
+0,Total Activos Corrientes,"1,821,219",IV,2019
+1,Total Activos No Corrientes,"6,915,097",IV,2019
+2,Total Pasivos Corrientes,"2,241,407",IV,2019
+3,Total Pasivos No Corrientes,"3,068,404",IV,2019
+4,Total Patrimonio,"3,426,505",IV,2019
+0,Total Activos Corrientes,"2,395,665",I,2020
+1,Total Activos No Corrientes,"6,928,387",I,2020
+2,Total Pasivos Corrientes,"2,856,867",I,2020
+3,Total Pasivos No Corrientes,"3,052,290",I,2020
+4,Total Patrimonio,"3,414,895",I,2020
+0,Total Activos Corrientes,"2,446,836",II,2020
+1,Total Activos No Corrientes,"7,078,794",II,2020
+2,Total Pasivos Corrientes,"2,914,134",II,2020
+3,Total Pasivos No Corrientes,"3,052,612",II,2020
+4,Total Patrimonio,"3,558,884",II,2020
+0,Total Activos Corrientes,"2,194,986",III,2020
+1,Total Activos No Corrientes,"7,244,797",III,2020
+2,Total Pasivos Corrientes,"2,853,521",III,2020
+3,Total Pasivos No Corrientes,"3,058,859",III,2020
+4,Total Patrimonio,"3,527,403",III,2020
+0,Total Activos Corrientes,"1,950,730",IV,2020
+1,Total Activos No Corrientes,"7,389,419",IV,2020
+2,Total Pasivos Corrientes,"2,640,226",IV,2020
+3,Total Pasivos No Corrientes,"3,054,354",IV,2020
+4,Total Patrimonio,"3,645,569",IV,2020
+0,Total Activos Corrientes,"2,353,270",I,2021
+1,Total Activos No Corrientes,"7,575,929",I,2021
+2,Total Pasivos Corrientes,"3,161,100",I,2021
+3,Total Pasivos No Corrientes,"3,134,697",I,2021
+4,Total Patrimonio,"3,633,402",I,2021
+0,Total Activos Corrientes,"2,726,473",II,2021
+1,Total Activos No Corrientes,"7,848,690",II,2021
+2,Total Pasivos Corrientes,"3,539,458",II,2021
+3,Total Pasivos No Corrientes,"3,229,695",II,2021
+4,Total Patrimonio,"3,806,010",II,2021
+0,Total Activos Corrientes,"3,030,691",III,2021
+1,Total Activos No Corrientes,"8,037,191",III,2021
+2,Total Pasivos Corrientes,"4,345,337",III,2021
+3,Total Pasivos No Corrientes,"3,106,091",III,2021
+4,Total Patrimonio,"3,616,454",III,2021
+0,Total Activos Corrientes,"2,603,527",IV,2021
+1,Total Activos No Corrientes,"7,334,411",IV,2021
+2,Total Pasivos Corrientes,"3,677,685",IV,2021
+3,Total Pasivos No Corrientes,"2,974,297",IV,2021
+4,Total Patrimonio,"3,285,956",IV,2021
+0,Total Activos Corrientes,"2,505,432",I,2022
+1,Total Activos No Corrientes,"7,203,643",I,2022
+2,Total Pasivos Corrientes,"4,315,195",I,2022
+3,Total Pasivos No Corrientes,"2,401,949",I,2022
+4,Total Patrimonio,"2,991,931",I,2022
+0,Total Activos Corrientes,"2,624,942",II,2022
+1,Total Activos No Corrientes,"7,496,912",II,2022
+2,Total Pasivos Corrientes,"4,383,058",II,2022
+3,Total Pasivos No Corrientes,"2,408,662",II,2022
+4,Total Patrimonio,"3,330,134",II,2022
+0,Total Activos Corrientes,"2,943,085",III,2022
+1,Total Activos No Corrientes,"7,527,398",III,2022
+2,Total Pasivos Corrientes,"4,729,058",III,2022
+3,Total Pasivos No Corrientes,"2,390,941",III,2022
+4,Total Patrimonio,"3,350,484",III,2022
+0,Total Activos Corrientes,"2,218,518",IV,2022
+1,Total Activos No Corrientes,"7,535,654",IV,2022
+2,Total Pasivos Corrientes,"4,511,703",IV,2022
+3,Total Pasivos No Corrientes,"2,369,990",IV,2022
+4,Total Patrimonio,"2,872,479",IV,2022
+0,Total Activos Corrientes,"2,148,445",I,2023
+1,Total Activos No Corrientes,"7,609,642",I,2023
+2,Total Pasivos Corrientes,"4,494,330",I,2023
+3,Total Pasivos No Corrientes,"2,591,607",I,2023
+4,Total Patrimonio,"2,672,150",I,2023
+0,Total Activos Corrientes,"2,135,981",II,2023
+1,Total Activos No Corrientes,"7,436,943",II,2023
+2,Total Pasivos Corrientes,"4,332,439",II,2023
+3,Total Pasivos No Corrientes,"2,691,253",II,2023
+4,Total Patrimonio,"2,549,232",II,2023
+0,Total Activos Corrientes,"1,797,022",III,2023
+1,Total Activos No Corrientes,"7,501,466",III,2023
+2,Total Pasivos Corrientes,"4,039,089",III,2023
+3,Total Pasivos No Corrientes,"2,529,804",III,2023
+4,Total Patrimonio,"2,729,595",III,2023
+0,Total Activos Corrientes,"1,687,478",IV,2023
+1,Total Activos No Corrientes,"7,503,030",IV,2023
+2,Total Pasivos Corrientes,"3,957,764",IV,2023
+3,Total Pasivos No Corrientes,"2,420,324",IV,2023
+4,Total Patrimonio,"2,812,420",IV,2023
+0,Total Activos Corrientes,"1,871,801",I,2024
+1,Total Activos No Corrientes,"7,512,230",I,2024
+2,Total Pasivos Corrientes,"4,195,012",I,2024
+3,Total Pasivos No Corrientes,"2,270,942",I,2024
+4,Total Patrimonio,"2,918,077",I,2024
+0,Total Activos Corrientes,"1,601,762",II,2024
+1,Total Activos No Corrientes,"7,654,216",II,2024
+2,Total Pasivos Corrientes,"4,870,322",II,2024
+3,Total Pasivos No Corrientes,"1,732,987",II,2024
+4,Total Patrimonio,"2,652,669",II,2024
