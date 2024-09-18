@@ -6,7 +6,6 @@ En este repositorio encontrarás un algoritmo de webscraping que utiliza la pág
 - webscrapping.ipynb: Jupyter Notebook con el algoritmo de descarga. Solo debes incluir el nombre de la empresa en la función respectiva
 - analysis.ipynb: Jupyter Notebook con la codificación para limpiar los datos descargados, elaborar los indicadores financieros y graficar
 - graphs: Carpeta que contiene todos los gráficos generados de los indicadores financieros
-- venv: Environment utilizado
 - balance.csv: Archivo csv producto de efectuar el algoritmo de descarga. Los datos son correspondientes al Balance General
 - flujo.csv: Archivo csv producto de efectuar el algoritmo de descarga. Los datos son correspondientes al Flujo de Efectivo
 - resultados.csv: Archivo csv producto de efectuar el algoritmo de descarga. Los datos son correspondientes al Estado de Resultados
